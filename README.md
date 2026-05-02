@@ -6,15 +6,15 @@ Any Type File Zip, Singel File Virus Scan Tools
 
 ```bash
 # Run Commands:
-# git clone https://github.com/chowdhuryvai/File_Virus_Scanner_Tool.git
-# cd File_Virus_Scanner_Tool
-# python File_Virus_Scanner_Tool.py
-#OR
-# python3 File_Virus_Scanner_Tool.py
-# Windows (Command Prompt/PowerShell):
-# python File_Virus_Scanner_Tool.py
-# OR
-# python3 File_Virus_Scanner_Tool.py
+ git clone https://github.com/chowdhuryvai/File_Virus_Scanner_Tool.git
+ cd File_Virus_Scanner_Tool
+ python File_Virus_Scanner_Tool.py
+ OR
+ python3 File_Virus_Scanner_Tool.py
+ Windows (Command Prompt/PowerShell):
+ python File_Virus_Scanner_Tool.py
+ OR
+ python3 File_Virus_Scanner_Tool.py
 
 ```
 
